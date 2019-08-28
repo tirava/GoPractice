@@ -1,0 +1,4 @@
+testik 2019/08/28 23:42:13 main.go:14: Simple message.
+testik 2019/08/28 23:42:13 main.go:15: Fatal error.
+testik 2019/08/28 23:42:19 main.go:14: Simple message.
+testik 2019/08/28 23:42:19 main.go:15: Fatal error.
